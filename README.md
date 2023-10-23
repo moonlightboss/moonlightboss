@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vladislav</h1>
 <h3 align="center">Frontend dev</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moonlightboss" alt="moonlightboss" /></a> </p>
 
 
 
